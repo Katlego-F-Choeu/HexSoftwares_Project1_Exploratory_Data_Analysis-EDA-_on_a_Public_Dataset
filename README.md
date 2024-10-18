@@ -8,7 +8,6 @@ from Kaggle).
 Clean the data, handle missing values, and perform basic statistical analysis.
 ** When I cleaned the data I found that the Mental Health Condition is having 1196 missing entries, as well as Physical Activities having 1629 missing entries
 ** Then I had to removed columns with text, because it would give a data type conversion error(casting string to float)
-** 
 
 Visualize data distributions, correlations, and key patterns using charts and graphs.
 Tools: Python (Pandas, Matplotlib, Seaborn), Jupyter Notebook.
